@@ -1,0 +1,22 @@
+﻿# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Node/Yarn (if you add tooling later)
+node_modules/
+dist/
+build/
+.cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS
+*.swp
